@@ -43,7 +43,6 @@
     "Python.strings.executor": "Run",
     "Python.typeConversion.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -194,7 +193,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738352835248</updated>
-      <workItem from="1738352836033" duration="12091000" />
+      <workItem from="1738352836033" duration="12705000" />
     </task>
     <servers />
   </component>
